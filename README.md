@@ -27,7 +27,7 @@ produto digital  →  dados organizados  →  decisões melhores
 
 ## Agora
 
-Estou construindo meu primeiro ciclo público de projetos e registrando o processo — do problema inicial ao produto publicado.
+Estou construindo meu primeiro ciclo público de projetos e registrando o processo do problema inicial ao produto publicado.
 
 > Este perfil é um registro vivo. Os projetos evoluem junto com minhas habilidades.
 
