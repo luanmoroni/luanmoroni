@@ -6,9 +6,9 @@ Estou desenvolvendo minha trajetória na interseção entre **desenvolvimento fu
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-5DE6FF?style=for-the-badge&logoColor=05080D)](https://luanmoroni.github.io)
 
-## Em construção
+## Projetos
 
-- **Decision Hub** — dashboard full-stack para organizar métricas e apoiar decisões de negócio.
+- **[Decision Hub](https://github.com/luanmoroni/decision-hub)** — dashboard executivo para organizar métricas de consultoria e apoiar decisões de negócio. `v1 publicada`
 - **Operations Copilot** — automação de processos e consulta inteligente de conhecimento interno.
 - **Local Intelligence** — experimentos com modelos locais, privacidade e arquiteturas de IA sob controle próprio.
 
